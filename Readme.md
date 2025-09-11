@@ -10,4 +10,6 @@ Nesta aula, ativamos a chave e incluimos a chave pública no Github
 
 ##Terceira aula - conectando o Git com o Github
 
-## Segunda Semana Git Avançado
+# Segunda Semana Git Avançado
+
+## Aula 1 - Branchs e seus fluxos
